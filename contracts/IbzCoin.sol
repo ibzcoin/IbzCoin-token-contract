@@ -1,4 +1,4 @@
-pragma solidity ^0.4.18;
+pragma solidity ^0.4.19;
 
 // ----------------------------------------------------------------------------
 // The 'IbzCoin' token contract
@@ -99,7 +99,7 @@ contract Owned {
 // ERC20 Token, with the addition of symbol, name and decimals and an
 // initial fixed supply
 // ----------------------------------------------------------------------------
-contract FixedSupplyToken is ERC20Interface, Owned {
+contract IbzCoin is ERC20Interface, Owned {
     using SafeMath for uint;
 
     string public symbol;
@@ -114,7 +114,7 @@ contract FixedSupplyToken is ERC20Interface, Owned {
     // ------------------------------------------------------------------------
     // Constructor
     // ------------------------------------------------------------------------
-    function FixedSupplyToken() public {
+    function IbzCoin() public {
         symbol = "IBZ";
         name = "IbzCoin";
         decimals = 18;
