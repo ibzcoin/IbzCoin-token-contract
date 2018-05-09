@@ -1,7 +1,7 @@
 pragma solidity ^0.4.18;
 
 // ----------------------------------------------------------------------------
-// 'IBZ' 'The IbzCoin' initial token contract
+// The 'IbzCoin' token contract
 //
 // Symbol      : IBZ
 // Name        : IbzCoin
