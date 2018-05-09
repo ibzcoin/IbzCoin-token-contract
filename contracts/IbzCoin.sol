@@ -11,8 +11,7 @@ pragma solidity ^0.4.18;
 // The world´s first local cryptocurrency for the island Ibiza 
 // by IBZ Systems LLC
 //
-// With many thanks for contributing to (c) BokkyPooBah / Bok Consulting Pty Ltd 2017. The MIT Licence.
-// https://github.com/bokkypoobah/Tokens/edit/master/contracts/FixedSupplyToken.sol
+// Thanks for contributing to (c) BokkyPooBah / Bok Consulting Pty Ltd 2017. The MIT Licence.
 // ----------------------------------------------------------------------------
 
 
